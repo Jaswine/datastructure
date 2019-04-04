@@ -1,7 +1,6 @@
 package com.jaswine.linear;
 
 
-import java.util.Random;
 
 /**
  * 数组数据结构的实现
